@@ -1,0 +1,1 @@
+# staticwebsiteskeleton.github.io
